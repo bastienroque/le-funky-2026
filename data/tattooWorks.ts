@@ -3,23 +3,13 @@ import { Work } from "@/types";
 export const tattooWorks: Work[] = [
   {
     id: "tattoo-1",
-    title: "Piece 1",
     src: "/images/tattoo/tattoo1.jpeg",
     width: 1200,
     height: 1600,
     alt: "Tattoo piece 1",
   },
   {
-    id: "tattoo-2",
-    title: "Piece 2",
-    src: "/images/tattoo/tattoo2.jpeg",
-    width: 1200,
-    height: 1600,
-    alt: "Tattoo piece 2",
-  },
-  {
     id: "tattoo-3",
-    title: "Piece 3",
     src: "/images/tattoo/tattoo3.jpeg",
     width: 1200,
     height: 1600,
@@ -27,7 +17,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-4",
-    title: "Piece 4",
     src: "/images/tattoo/tattoo4.jpeg",
     width: 1200,
     height: 1600,
@@ -35,7 +24,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-5",
-    title: "Piece 5",
     src: "/images/tattoo/tattoo5.jpeg",
     width: 1200,
     height: 1600,
@@ -43,7 +31,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-6",
-    title: "Piece 6",
     src: "/images/tattoo/tattoo6.jpeg",
     width: 1200,
     height: 1600,
@@ -51,7 +38,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-7",
-    title: "Piece 7",
     src: "/images/tattoo/tattoo7.jpeg",
     width: 1200,
     height: 1600,
@@ -59,7 +45,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-8",
-    title: "Piece 8",
     src: "/images/tattoo/tattoo8.jpeg",
     width: 1200,
     height: 1600,
@@ -67,7 +52,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-9",
-    title: "Piece 9",
     src: "/images/tattoo/tattoo9.jpg",
     width: 1200,
     height: 1600,
@@ -75,7 +59,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-10",
-    title: "Piece 10",
     src: "/images/tattoo/tattoo10.jpeg",
     width: 1200,
     height: 1600,
@@ -83,7 +66,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-11",
-    title: "Piece 11",
     src: "/images/tattoo/tattoo11.jpeg",
     width: 1200,
     height: 1600,
@@ -91,7 +73,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-12",
-    title: "Piece 12",
     src: "/images/tattoo/tattoo12.jpeg",
     width: 1200,
     height: 1600,
@@ -99,7 +80,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-13",
-    title: "Piece 13",
     src: "/images/tattoo/tattoo13.jpeg",
     width: 1200,
     height: 1600,
@@ -107,7 +87,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-14",
-    title: "Piece 14",
     src: "/images/tattoo/tattoo14.jpeg",
     width: 1200,
     height: 1600,
@@ -115,7 +94,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-15",
-    title: "Piece 15",
     src: "/images/tattoo/tattoo15.jpeg",
     width: 1200,
     height: 1600,
@@ -123,7 +101,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-16",
-    title: "Piece 16",
     src: "/images/tattoo/tattoo16.jpeg",
     width: 1200,
     height: 1600,
@@ -131,7 +108,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-17",
-    title: "Piece 17",
     src: "/images/tattoo/tattoo17.jpeg",
     width: 1200,
     height: 1600,
@@ -139,7 +115,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-18",
-    title: "Piece 18",
     src: "/images/tattoo/tattoo18.jpg",
     width: 1200,
     height: 1600,
@@ -147,7 +122,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-19",
-    title: "Piece 19",
     src: "/images/tattoo/tattoo19.jpg",
     width: 1200,
     height: 1600,
@@ -155,7 +129,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-20",
-    title: "Piece 20",
     src: "/images/tattoo/tattoo20.jpg",
     width: 1200,
     height: 1600,
@@ -163,23 +136,13 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-21",
-    title: "Piece 21",
     src: "/images/tattoo/tattoo21.jpg",
     width: 1200,
     height: 1600,
     alt: "Tattoo piece 21",
   },
   {
-    id: "tattoo-22",
-    title: "Piece 22",
-    src: "/images/tattoo/tattoo22.jpg",
-    width: 1200,
-    height: 1600,
-    alt: "Tattoo piece 22",
-  },
-  {
     id: "tattoo-23",
-    title: "Piece 23",
     src: "/images/tattoo/tattoo23.jpg",
     width: 1200,
     height: 1600,
@@ -187,7 +150,6 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-24",
-    title: "Piece 24",
     src: "/images/tattoo/tattoo24.jpg",
     width: 1200,
     height: 1600,
@@ -195,18 +157,9 @@ export const tattooWorks: Work[] = [
   },
   {
     id: "tattoo-25",
-    title: "Piece 25",
     src: "/images/tattoo/tattoo25.jpg",
     width: 1200,
     height: 1600,
     alt: "Tattoo piece 25",
-  },
-  {
-    id: "tattoo-26",
-    title: "Piece 26",
-    src: "/images/tattoo/tattoo26.jpg",
-    width: 1200,
-    height: 1600,
-    alt: "Tattoo piece 26",
   },
 ];

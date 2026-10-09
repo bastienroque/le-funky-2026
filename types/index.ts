@@ -12,7 +12,8 @@ export type HeadingProps = React.ComponentPropsWithoutRef<"h1"> & {
 
 export type Work = {
   id: string;
-  title: string;
+  title?: string;
+  location?: string;
   src: string;
   width: number;
   height: number;

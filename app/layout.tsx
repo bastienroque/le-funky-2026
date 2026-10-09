@@ -27,7 +27,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Le Funky's Website",
-  description: "Graffiti and Tattoo",
+  description: "Graffiti, Tattoo, Live Painting and Illustration",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

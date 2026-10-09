@@ -19,12 +19,12 @@ export const contacts = [
 export const tattoo_shops = [
   {
     title: "924 Tattoo",
-    href: "#1",
+    href: "https://maps.app.goo.gl/N88FYniXRNMpvn1n8",
     location: "Lagos, Portugal",
   },
   {
     title: "Black Sheep",
-    href: "#2",
+    href: "https://maps.app.goo.gl/2drdCnebuLs1DoTB7",
     location: "Évora, Portugal",
   },
 ];

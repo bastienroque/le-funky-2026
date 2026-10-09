@@ -22,7 +22,7 @@ const Contact = () => {
         </div>
       </Section>
 
-      <section className="grid border-t px-6 md:grid-cols-2 md:px-10">
+      <section className="container grid border-t border-b px-6 md:grid-cols-2 md:px-10">
         <div className="border-b py-12 md:border-b-0 md:border-r md:pr-12">
           <p className="mb-8 text-sm uppercase tracking-[0.2em] text-muted-foreground">
             Tattoo
@@ -37,6 +37,7 @@ const Contact = () => {
 
                 <Link
                   href={shop.href}
+                  target="_blank"
                   className="mt-4 inline-block text-sm font-medium uppercase tracking-wide underline underline-offset-4 transition-opacity hover:opacity-60"
                 >
                   Visit shop →
@@ -56,6 +57,7 @@ const Contact = () => {
                 <Link
                   key={link.href}
                   href={link.href}
+                  target="_blank"
                   className="text-3xl font-bold uppercase transition-opacity hover:opacity-60 md:text-4xl"
                 >
                   {link.title}
@@ -66,7 +68,7 @@ const Contact = () => {
         </div>
       </section>
 
-      <section className="border-t px-6 py-12 md:px-10">
+      <section className="container px-6 py-12 md:px-10">
         <p className="max-w-xl text-sm leading-relaxed text-muted-foreground">
           For tattoo enquiries, please include your preferred style, idea,
           placement, and approximate size when reaching out.

@@ -25,6 +25,9 @@ const GalleryItem = ({ work, onClick }: GalleryItemProps) => {
           <h3 className="text-sm font-medium uppercase tracking-wide">
             {work.title}
           </h3>
+          <h3 className="text-sm font-medium uppercase tracking-wide">
+            {work.location}
+          </h3>
 
           <span className="text-sm text-muted-foreground">{work.year}</span>
         </div>
